@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('fire-event', function() {
+    event(new App\Events\Posted());
+
+    return redirect('/');
+});

@@ -81,7 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    State College Laravel Meetup
+                </div>
+
+                <div style="margin-bottom: 40px; font-size: 2rem;">
+                    <a href="/fire-event" class="btn">Fire an Event</a>
                 </div>
 
                 <div class="links">
