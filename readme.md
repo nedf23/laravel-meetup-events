@@ -1,1 +1,1 @@
-This repository was used to demonstrate events in Laravel. See the (second commit)[https://github.com/nedf23/laravel-meetup-events/commit/4b3b9ac3efb0d637e787c87b96fe725ff21597ba] for the code changes that were made beyond the initial commit.
+This repository was used to demonstrate events in Laravel. See the [second commit](https://github.com/nedf23/laravel-meetup-events/commit/4b3b9ac3efb0d637e787c87b96fe725ff21597ba) for the code changes that were made beyond the initial commit.
